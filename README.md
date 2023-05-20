@@ -20,10 +20,15 @@ I ran this workshop using a traditional ML approach to:
 *  This is not a GenAI talk but going through these fundamentals will help you better understand terms and techniques used in large language models today;  and then finally as a bonus
 *  You can build your machine learning portfolio along the way.
 
-### Related notes
+### Related references & links
 
 *  View related [recording here](https://www.youtube.com/watch?v=M4zFAnAUkqE) 
 *  View presentation [slides here](https://speakerdeck.com/stigsfoot/unlock-ner-for-sensitive-data-with-nlop-gdsc-2023)
+*  Conversational AI Development [with Dialogflow](https://cloud.google.com/dialogflow)
+*  Label Studio [the open source annotator used in this presentation](https://labelstud.io/) 
+*  What is [NLP by Google Cloud](https://cloud.google.com/learn/what-is-natural-language-processing)
+*  Cloud [Skills Boost for NLP](https://www.cloudskillsboost.google/course_templates/40)
+*  Recommended [Open Source MLOps Framwork](https://zenml.io/home)
 
 ---
 
